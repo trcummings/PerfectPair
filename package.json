@@ -32,7 +32,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "devDependencies": {
-    "node-fetch": ">=2.6.1",
+    "node-fetch": ">=2.6.7",
     "braces": ">=2.3.1"
   },
   "engines": {
